@@ -16,3 +16,12 @@ C:\Users\Black\Desktop\Black Hotspot\Black Hotspot\obj\Debug\Black Hotspot.cspro
 C:\Users\Black\Desktop\Black Hotspot\Black Hotspot\obj\Debug\Black_Hotspot.Main.resources
 C:\Users\Black\Desktop\Black Hotspot\Black Hotspot\obj\Debug\Black_Hotspot.Properties.Resources.resources
 C:\Users\Black\Desktop\Black Hotspot\Black Hotspot\obj\Debug\Black Hotspot.csproj.GenerateResource.Cache
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\bin\Debug\Black Hotspot.exe.config
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\obj\Debug\Black Hotspot.exe
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\obj\Debug\Black Hotspot.pdb
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\bin\Debug\Black Hotspot.exe
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\bin\Debug\Black Hotspot.pdb
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\obj\Debug\Black Hotspot.csprojResolveAssemblyReference.cache
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\obj\Debug\Black_Hotspot.Main.resources
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\obj\Debug\Black_Hotspot.Properties.Resources.resources
+D:\Github Repo\Black-Hotspot\Black Hotspot\Black Hotspot\obj\Debug\Black Hotspot.csproj.GenerateResource.Cache

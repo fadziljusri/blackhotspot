@@ -122,6 +122,9 @@ namespace Black_Hotspot
         {
             if (!isStarted)
             {
+                txtSSID.Text = txtSSID.Text.Replace(" ", "-");
+                //MessageBox.Show(txtSSID.Text, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                
                 if (String.IsNullOrEmpty(txtSSID.Text))
                 {
                     MessageBox.Show("Cannot Blank !", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
